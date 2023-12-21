@@ -1,0 +1,15 @@
+{
+  "name": "GROKGIRL",
+  "symbol": "GROKGIRL",
+  "image": "https://img001.prntscr.com/file/img001/YKwn03q_RxSrswGYe0IanQ.png",
+  "description": "GrokGirl - The Queen Of Grok On Solana",
+  "creator": {
+    "name": "DEXLAB MINTING LAB",
+    "site": "https://www.dexlab.space"
+  },
+  "extensions": {
+    "telegram": "https://t.me/grokgril",
+    "twitter": "https://twitter.com/grokgirl_sol",
+    "website": "https://www.grokgirl.xyz/"
+  }
+}
